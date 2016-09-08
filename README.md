@@ -1,9 +1,8 @@
-# Java Rectangles
-![project screenshot](/screenshot.jpg)
-
-Version 0.0.0: September 8, 2016
-
+# Java Rectangles<-
 by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Elysia Avery Nason](https://github.com/elysiaavery)
+
+->Version 0.0.0: September 8, 2016<-
+->![project screenshot](/screenshot.jpg)<-
 
 ## Description
 A program that calculates rectangles.
