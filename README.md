@@ -8,6 +8,14 @@ A program that calculates rectangles.
 ![project screenshot](/screenshot.jpg)
 
 ### Specifications
+| Behavior             | Input              | Output |
+|----------------------|--------------------|--------|
+| Create a rectangle   | height: 2 width: 4 | true   |
+| Return height        | height: 2width: 4  | 2      |
+| Return width         | height: 2width: 4  | 4      |
+| Checks if not square | height: 2width: 4  | false  |
+| Checks if square     | height: 2width: 2  | true   |
+|                      |                    |        |
 
 ## Setup/Installation
 * Clone directory
