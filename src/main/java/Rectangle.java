@@ -16,6 +16,6 @@ public class Rectangle {
   }
 
   public boolean isSquare() {
-    return true;
+    return mHeight == mWidth;
   }
 }
