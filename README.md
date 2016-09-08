@@ -4,7 +4,7 @@ by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Elysia Avery
 ## Description
 A program that calculates rectangles.
 
-[project screenshot](/screenshot.jpg)
+![project screenshot](/screenshot.jpg)
 
 Version 0.0.0: September 8, 2016
 
