@@ -14,4 +14,10 @@ public class RectangleTest {
     Rectangle testRectangle = new Rectangle(2, 4);
     assertEquals(2, testRectangle.getHeight());
   }
+
+  @Test
+  public void getWidth_getsRectangleWidth_4() {
+    Rectangle testRectangle = new Rectangle(2, 4);
+    assertEquals(4, testRectangle.getWidth());
+  }
 }

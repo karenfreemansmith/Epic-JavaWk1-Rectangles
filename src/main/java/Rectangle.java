@@ -8,4 +8,8 @@ public class Rectangle {
   public int getHeight() {
     return mHeight;
   }
+
+  public int getWidth() {
+    return 0;
+  }
 }
