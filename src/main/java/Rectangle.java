@@ -14,4 +14,8 @@ public class Rectangle {
   public int getWidth() {
     return mWidth;
   }
+
+  public boolean isSquare() {
+    return true;
+  }
 }
