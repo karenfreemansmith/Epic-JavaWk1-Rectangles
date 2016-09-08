@@ -1,6 +1,10 @@
 public class Rectangle {
 
-  public Rectangle(int lenth, int width) {
-    
+  public Rectangle(int height, int width) {
+
+  }
+
+  public int getHeight() {
+    return 0;
   }
 }
